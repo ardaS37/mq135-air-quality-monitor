@@ -1,0 +1,8 @@
+.pio/
+build/
+*.bin
+*.elf
+*.hex
+*.map
+.env
+.env.*
