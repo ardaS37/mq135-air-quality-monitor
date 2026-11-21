@@ -20,3 +20,14 @@ The displayed categories are relative classifications, not certified AQI measure
 ## Status
 
 Simple experimental project.
+
+<!-- project-screenshot-gallery:start -->
+## Screenshots
+
+The web interface is shown with two example sensor readings.
+
+<p>
+  <a href="docs/screenshots/readme/01-hava-kalitesi-iyi.png"><img src="docs/screenshots/readme/01-hava-kalitesi-iyi.png" alt="Web dashboard with a good relative reading" width="440"></a>
+  <a href="docs/screenshots/readme/02-hava-kalitesi-orta.png"><img src="docs/screenshots/readme/02-hava-kalitesi-orta.png" alt="Web dashboard with a moderate relative reading" width="440"></a>
+</p>
+<!-- project-screenshot-gallery:end -->
